@@ -1,10 +1,10 @@
 # Pathfinder.Net
-WPF app with a configurable pathfinding algorythm to play around with path exploration logic.
+WPF app with a configurable pathfinding algorithm to play around with path exploration logic.
 
 ## Project History
 This project was a post Uni project originally hosted on CodePlex under https://pathfinder.codeplex.com/, but the site no-longer exists.
 
-The goal was to demonstrate various pathfinding algorythms while learning WPF when it came out in 2006...
+The goal was to demonstrate various pathfinding algorithms while learning WPF when it came out in 2006...
 
 Ported to github ~2015.
 
